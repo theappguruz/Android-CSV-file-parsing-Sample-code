@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, CSVParsingExampleActivity!</string>
+    <string name="app_name">CSVParsingExample</string>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+	<string name="labelSelectCate">Select Category</string>
+</resources>

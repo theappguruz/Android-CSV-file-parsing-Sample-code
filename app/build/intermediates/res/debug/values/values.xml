@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/theappguruz/Desktop/Android%20Blog%20Work/Android%20-%20Csv%20File%20Parser/Android%20Studio/Android%20-%20Csv%20File%20Parser/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+    <string name="app_name">CSVParsingExample</string>
+    <string name="hello">Hello World, CSVParsingExampleActivity!</string>
+    <string name="labelSelectCate">Select Category</string>
+</resources>

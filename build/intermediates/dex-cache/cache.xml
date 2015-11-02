@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/theappguruz/Desktop/Android Blog Work/Android - Csv File Parser/Android Studio/Android - Csv File Parser/app/libs/opencsv-2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c0ffd01065bc3fe571e1a4eb7014a03333f0663d">
+        <dex dex="/Users/theappguruz/Desktop/Android Blog Work/Android - Csv File Parser/Android Studio/Android - Csv File Parser/app/build/intermediates/pre-dexed/debug/opencsv-2.3-5f4a297f05fd226ba729a3452fd87ae7d6182002.jar" />
+    </item>
+
+</items>
